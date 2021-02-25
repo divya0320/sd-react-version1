@@ -1,0 +1,180 @@
+{
+    "Header": {
+
+        "title": "We are here to help !!",
+        "paragraph": ""
+
+    },
+    "About": {
+        "paragraph": "SLD Electrical pride ourselves on reliability,quality and professionalism.",
+        "Why": [
+            "Our experience in the trade surpasses over 15 years across both the domestic and commercial space . We work with our customers to refine their needs and always deliver exceptional quality and design."
+        ],
+        "Why2": [
+            "We adhere to the highest standards and we promise to deliver this standard to each of our customers."
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-lightbulb-o",
+            "name": "Additional lighting",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-lightbulb-o",
+            "name": "Spotlights & energy saving upgrades",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-home",
+            "name": "House wires and rewires",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-home",
+            "name": "Ring Doorbells and Security Lighting",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-signal",
+            "name": "TV Points & Internet points",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-bolt",
+            "name": "Electric Showers",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-mobile",
+            "name": "Smart Devices",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-question",
+            "name": "Any electrical requirement just ask",
+            "text": ""
+        }
+    ],
+
+    
+
+
+
+
+
+
+
+
+
+
+    "CommercialServices": [
+        {
+        "icon": "fa fa-lightbulb-o",
+        "name": "Lighting upgrades",
+        "text": ""
+    },
+    {
+        "icon": "fa fa-building",
+        "name": "Retail fit outs",
+        "text": ""
+    },
+    {
+        "icon": "fa fa-bolt",
+        "name": "Emergency lighting systems",
+        "text": ""
+    },
+    {
+        "icon": "fa fa-home",
+        "name": "Fire alarm system installation",
+        "text": ""
+    },
+    {
+        "icon": "fa fa-lightbulb-o",
+        "name": "Full LED Conversions",
+        "text": ""
+    },
+    {
+        "icon": "fa fa-bolt",
+        "name": "ITC Data cable installation",
+        "text": ""
+    }
+],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "",
+        "phone": "083 150 5957",
+        "email": "info@SLDElectrical.ie",
+        "instagram": "www.instagram.com/sldelectrical"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
