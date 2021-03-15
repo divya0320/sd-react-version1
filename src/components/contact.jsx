@@ -35,19 +35,7 @@ export class Contact extends Component {
               </div>
             </div>
             <div className="col-md-12">
-              <div className="row">
-                <div className="social">
-                  <ul>
-                    <li>
-                      <a
-                        href={this.props.data ? this.props.data.instagram : "/"}
-                      >
-                        <i className="fa fa-fa-instagram"></i>
-                      </a>
-                    </li>
- 
-                  </ul>
-                </div>
+              <div className="row">   
               </div>
             </div>
           </div>
