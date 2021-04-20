@@ -16,6 +16,7 @@ export class Header extends Component {
                   <p>
                     {this.props.data ? this.props.data.paragraph : "Loading"}
                   </p>
+                  <br>
                   <a
                     href="#about"
                     className="btn btn-custom btn-lg page-scroll"
