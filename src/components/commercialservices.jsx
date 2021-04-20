@@ -24,7 +24,7 @@ export class Services extends Component {
                     </div>
                   </div>
                 ))
-              : "loading..."}
+              : "loading...please wait"}
           </div>
           <br/>
             <br/>
