@@ -7,7 +7,7 @@ export class Services extends Component {
         <div className="container">
           <div className="section-title">
             <h2>
-             Commercial Services
+             Commercial services
             </h2>
             <br/>
             <br/>
