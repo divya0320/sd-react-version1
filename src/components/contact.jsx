@@ -19,12 +19,9 @@ export class Contact extends Component {
               <div className="row">
                 <h1>Follow us on
                   &nbsp;
-                  <a aria-label="facebook" href="https://www.facebook.com/SLDElectrical.ie/" className="fa fa-facebook"></a>&nbsp;
-                  <a aria-label="linkedin" href="https://www.linkedin.com/in/sean-deery-7b1616209/?originalSubdomain=ie" className="fa fa-linkedin"></a>&nbsp;
-                  <a aria-label="instagram" href="https://www.instagram.com/sldelectrical.ie" className="fa fa-instagram"></a>&nbsp;
-
-
-
+                  <a aria-label="facebook" href="https://www.facebook.com/SLDElectrical.ie/" className="fa fa-facebook social-media-icon"></a>&nbsp;
+                  <a aria-label="linkedin" href="https://www.linkedin.com/in/sean-deery-7b1616209/?originalSubdomain=ie" className="fa fa-linkedin social-media-icon"></a>&nbsp;
+                  <a aria-label="instagram" href="https://www.instagram.com/sldelectrical.ie" className="fa fa-instagram social-media-icon"></a>&nbsp;
                 </h1>
               </div>
             </div>

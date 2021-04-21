@@ -27,19 +27,25 @@ code {
   opacity: 0.7;
 }
 
-/* Set a specific color for each brand */
+/* Default styling for every social media icon */
+.social-media-icon {
+  border-radius: 10px;
+  color: white;
+}
 
+/* Set a specific background color for each brand */
 .fa-facebook {
   background: #3B5998;
-  color: white;
 }
 
 .fa-linkedin {
   background: #007bb5;
-  color: white;
 }
 
 .fa-instagram {
-  background: #125688;
-  color: white;
+  font-size: 35px;
+  line-height: 30px;
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  box-shadow: 0px 3px 10px rgba(0,0,0,.25);
 }
