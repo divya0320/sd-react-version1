@@ -7,7 +7,7 @@ export class Contact extends Component {
         <div id="contact">
           
           <div className="container">
-        
+
             <div className="col-md-8">
               <div className="row">
                 <h1>Get in touch
@@ -24,6 +24,16 @@ export class Contact extends Component {
                   <a aria-label="instagram" href="https://www.instagram.com/sldelectrical.ie" className="fa fa-instagram social-media-icon"></a>&nbsp;
                 </h1>
               </div>
+              <div className="row">
+                <iframe
+                    src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSLDElectrical.ie%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+                    width="340" height="500"  scrolling="no" frameBorder="0"
+                    allowFullScreen="true"
+                    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+                </iframe>
+              </div>
+
+
             </div>
             <div className="col-md-3 col-md-offset-1 contact-info">
               <div className="contact-item">
