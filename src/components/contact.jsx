@@ -65,7 +65,7 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2021 SLD Electrical. 
+              &copy; SLD Electrical - Engineered by Anya Technologies Ltd - https://www.anyatechnologies.ie/
  
             </p>
           </div>
